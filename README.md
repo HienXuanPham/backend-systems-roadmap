@@ -38,10 +38,10 @@ See [PROGRESS.md](PROGRESS.md).
 | Project | Focus | Status |
 |---|---|---|
 | TCP Server | Networking, concurrency | In Progress |
-| Production Backend Service | Go, PostgreSQL, Redis | Planned |
-| WAL Storage Engine | Storage, durability | Planned |
-| RaftKV | Distributed systems | Planned |
-| Job Queue | Async systems | Planned |
+| Production Backend Service | Go, PostgreSQL, Redis | Not Started |
+| WAL Storage Engine | Storage, durability | Not Started |
+| RaftKV | Distributed systems | Not Started |
+| Job Queue | Async systems | Not Started |
 
 ## Repository Structure
 
