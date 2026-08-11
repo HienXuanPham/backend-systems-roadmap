@@ -49,3 +49,8 @@ See [PROGRESS.md](PROGRESS.md).
 - `exercises/` — small experiments
 - `weekly-reviews/` — reflections and progress
 - `PROGRESS.md` — chronological activity log
+
+## Resources
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Go documentation](https://go.dev/doc/)
